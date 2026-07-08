@@ -1,0 +1,6 @@
+{
+  "name": "Panel de Ventas Interactivo",
+  "description": "Panel interactivo para visualizar datos de ventas con soporte para importación de informes en formato CSV/PDF, filtrado avanzado en tiempo real y exportación de resúmenes visuales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
