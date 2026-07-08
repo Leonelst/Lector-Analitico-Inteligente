@@ -1,3 +1,6 @@
+<img width="1041" height="579" alt="lector 2026-07-08 033626" src="https://github.com/user-attachments/assets/fd98d9d6-2508-420a-bff7-e1c6a6c82b75" />
+
+
 # Lector Analítico Inteligente v2.0 
 
 Una app interactiva de Business Intelligence (BI) y analítica empresarial impulsada por Gemini y diseñada en React 18+, TypeScript y Tailwind CSS para la ingesta, análisis, visualización y síntesis dinámica de conjuntos de datos provenientes de archivos Excel (.xlsx, .xls), CSV, o texto copiado de informes PDF. Esta aplicación se inicia en un estado limpio sin datos predefinidos inicialmente. Habilita un espacio de trabajo donde, al ingresar o arrastrar tu archivo de cualquier tipo de datos, el sistema detecta de forma heurística y automática el formato, reestructurando la interfaz para presentar métricas, indicadores clave (KPIs), tablas editables en tiempo real y gráficos interactivos de sus datos.
