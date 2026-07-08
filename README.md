@@ -9,7 +9,7 @@ Una app interactiva de Business Intelligence (BI) y analítica empresarial impul
 
 ## Enlace del Proyecto
 
-Nota: la versión de producción pública ha sido deshabilitada en este repositorio para proteger la cuota de tokens. Para usar la app, sigue las instrucciones de ejecución local.
+Nota: Para usar la app, sigue las instrucciones de ejecución local.
 
 ---
 
